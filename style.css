@@ -116,7 +116,7 @@ section {
 }
 .text-content p{
     font-size: 1.5rem;
-    color: red;
+    color: rgb(255, 0, 0);
 }
 .social-media{
     margin-top: 2rem;
@@ -136,13 +136,15 @@ section {
     color:red;
     box-shadow: 0 0 5px #000 ;
 }
+
+
 .btn{
     width: 15rem;
     height: 5rem;
     margin-top: 2rem;
     border-radius: 5rem;
-    background: red;
-    color: red;
+    background: rgb(99, 93, 93);
+    color: rgb(255, 0, 0);
     position: relative;
     overflow: hidden;
     z-index: 1;
@@ -369,13 +371,14 @@ textarea:valid{
     border: .2rem solid red;
    
 }
+
 textarea{
     resize: none;
     color: red;
 }
 
 .contact {
-  color: red;
+  color: rgb(99, 238, 19);
 }
 .contact h2 {
   color: red;
@@ -386,8 +389,8 @@ textarea{
     cursor: pointer;
 }
 .contact .btn:hover{
-    background: red;
-    color: black;
+    background: rgb(124, 122, 122);
+    color: rgb(255, 255, 255);
 }
 footer{
     background: black;
